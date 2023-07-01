@@ -1,0 +1,1 @@
+# CLANNAD_android_viethoa
