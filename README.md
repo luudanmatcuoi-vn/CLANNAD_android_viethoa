@@ -24,7 +24,7 @@ Hãy **ĐỌC KĨ** các nội dung dưới đây.
 ## Lưu ý
 
 - Thoát game bằng cách bấm "EXIT" hoặc "End the game" để các savegame của bạn lưu lại trong lần chơi tiếp theo
-** LÀM ƠN THOÁT GAME BẰNG CÁCH BẤM NÚT EXIT TRONG GAME**
+- ** LÀM ƠN THOÁT GAME BẰNG CÁCH BẤM NÚT EXIT TRONG GAME**
  ( kể cả bạn save trong game rồi nhưng tiện tay tắt app rlvm thì quá trình chơi của bạn không được lưu ( Note: Đó là tính năng ) )
 
 - Đây là phiên bản chơi "được" ko có nghĩa là chơi "tốt" trên android.
