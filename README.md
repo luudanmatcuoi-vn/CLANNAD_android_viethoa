@@ -1,7 +1,29 @@
 # CLANNAD android Việt Hoá
 
-Hãy **ĐỌC KĨ** các nội dung dưới đây.
+[ảnh Lăn Nách](clannad.jpg)
+
 ## Giới thiệu
+ 
+Tôi căm ghét thị trấn này.
+Nó đầy những kí ức tôi không muốn nhớ tới.
+Một cuộc sống vô vị, không mục tiêu, không lý tưởng...
+Kể cả thú vui cho bản thân mình cũng không.
+Những tháng ngày vô nghĩa tưởng như không chấm dứt.
+( biểu hiện của trầm kảm đấy :penguin: )
+
+Nhưng...
+
+Trên con đường ấy...
+Một cô gái nhút nhát...
+Với những lời nói ngây thơ đến kì lạ.
+Cuộc gặp gỡ đó...
+Đã làm thay đổi hoàn toàn cuộc đời tôi.
+
+ờm... Sau tất cả
+thì tôi vẫn căm ghét thị trấn này :penguin:
+
+
+### Hãy **ĐỌC KĨ** các nội dung dưới đây.
 
 ## Thông tin chung
 - Đây là phiên bản port từ đĩa cài CLANNAD Full Voice, được mod lại để chơi được trên android thông qua giả lập rlvm
@@ -24,16 +46,17 @@ Hãy **ĐỌC KĨ** các nội dung dưới đây.
 ## Lưu ý
 
 - Thoát game bằng cách bấm "EXIT" hoặc "End the game" để các savegame của bạn lưu lại trong lần chơi tiếp theo
-- ** LÀM ƠN THOÁT GAME BẰNG CÁCH BẤM NÚT EXIT TRONG GAME**
+
+** LÀM ƠN THOÁT GAME BẰNG CÁCH BẤM NÚT EXIT TRONG GAME**
  ( kể cả bạn save trong game rồi nhưng tiện tay tắt app rlvm thì quá trình chơi của bạn không được lưu ( Note: Đó là tính năng ) )
 
 - Đây là phiên bản chơi "được" ko có nghĩa là chơi "tốt" trên android.
   ( đừng bắt 1 con game 20 năm trước với trình giả lập đã ngừng phát triển từ thập kỷ trước phải chạy mượt mà )
-- Một số câu thoại sẽ không được việt hoá hoặc viet hoa khong dau ( do dev lười <(") )
+- Một số câu thoại sẽ không được việt hoá hoặc viet hoa khong dau ( do dev lười :penguin: )
 - Giao diện game sẽ không được việt hoá mà là tiếng anh.
 - Save game của rlvm không tương thích với bất cứ phiên bản nào khác.
   
- Mình khuyến khích các bạn chơi bản HD đã được việt hoá bởi vnkeyfc <(")
+ Mình khuyến khích các bạn chơi bản HD đã được việt hoá bởi vnkeyfc :penguin:
 
 ## Bug report
 - Hỏi gì sang kênh youtube của mình mà hỏi https://www.youtube.com/channel/UCdyAb9TAX1qQ5R2-c91-x8g ( mặc dù kênh bị tha hoá r )
@@ -46,7 +69,7 @@ Hãy **ĐỌC KĨ** các nội dung dưới đây.
 - [vnkeyfc](https://vnkeyfc.com) Đơn vị dịch game
 - [Baka-Tsuki](https://www.baka-tsuki.org/) Nơi lưu trữ bản dịch game
 - [Kazamatsuri](https://kazamatsuri.org/) Cộng đồng hâm mộ Key (đã tốt nghiệp) 
-- vnsharing.net tuổi thơ <(")
+- vnsharing.net tuổi thơ :penguin:
 
   
 
