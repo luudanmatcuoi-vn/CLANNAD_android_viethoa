@@ -41,7 +41,7 @@ Hãy **ĐỌC KĨ** các nội dung dưới đây.
 
 ## Acknowledgments
 Để có được bản port này, xin được gửi lời cảm ơn đến:
-- [Haeleth]([https://github.com/yanhua0518](http://www.haeleth.net/)http://www.haeleth.net/) Một thiên tài, người khởi đầu cho tất cả
+- [Haeleth](http://www.haeleth.net/) Một thiên tài, người khởi đầu cho tất cả
 - [xyzz](https://github.com/xyzz/rlvm-android) Người viết trình giả lập
 - [vnkeyfc](https://vnkeyfc.com) Đơn vị dịch game
 - [Baka-Tsuki](https://www.baka-tsuki.org/) Nơi lưu trữ bản dịch game
