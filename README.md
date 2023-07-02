@@ -34,6 +34,8 @@ Cuộc gặp gỡ đó...
 
 Đã làm thay đổi hoàn toàn cuộc đời tôi.
 
+(Ps: Muốn thoát trầm kảm ư, chơi game này học cách tán gái đi :rofl: )
+
 _____________________________________________________________________________
 ### Hãy **ĐỌC KĨ** các nội dung dưới đây.
 
