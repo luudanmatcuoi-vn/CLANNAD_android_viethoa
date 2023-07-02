@@ -91,8 +91,8 @@ _____________________________________________________________________________
 ## Thừa giấy vẽ voi
 Yeah... cuộc hành trình dài,... dài đằng đẵng,... tưởng chừng vô tận,... cuối cùng... đã đến hồi kết.
 
-Như t đã đề cập trong lời bình của bản việt hoá CLANNAD HD, t bắt đầu từ con số 0, hoàn toàn tự học. 
-Tuổi thơ học tập của t là những ngày tháng bắt trộm wifi hàng xóm, copy từng bài viết sang doc để về đọc dần hoặc thức cả buổi trưa tải 2GB file ghost winxp để học cài lại win hoặc tốn cả buổi lục lọi internet chỉ để kiếm file pdf cho cuốn sách mà mình muốn đọc. Cho nên t vẫn luôn cảm kích tới những bài viết hướng dẫn tâm huyết không dấu diếm kiến thức, không quảng cáo gì.
+Như t đã đề cập trong lời bình của bản việt hoá CLANNAD HD, t bắt đầu từ con số 0, hoàn toàn tự học. T làm gần như hết và toàn bộ là tự học.
+Tuổi thơ học tập của t là những ngày tháng bắt trộm wifi hàng xóm, copy từng bài viết trên mạng sang doc để về đọc dần hoặc thức cả buổi trưa tải 2GB file ghost winxp để học cài lại win hoặc tốn cả buổi lục lọi internet chỉ để kiếm file pdf cho cuốn sách mà mình muốn đọc. Cho nên t vẫn luôn cảm kích tới những bài viết hướng dẫn tâm huyết không dấu diếm kiến thức, không quảng cáo gì.
 Bản port này là lời cảm ơn nhỏ tới những vị anh hùng nặc danh đó và là tia hi vọng cho những bạn trẻ không có máy tính. Mong càng nhiều người hơn biết tới tác phẩm ý nghĩa này.
 
 Sayonara
