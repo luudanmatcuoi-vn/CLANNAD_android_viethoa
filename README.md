@@ -6,11 +6,15 @@
  
 Tôi căm ghét thị trấn này.
 
-Nó đầy những kí ức tôi không muốn nhớ tới.
+Nó đầy rẫy những kí ức mà tôi muốn quên đi.
 
 Một cuộc sống vô vị, không mục tiêu, không lý tưởng...
 
 Kể cả thú vui cho bản thân mình cũng không.
+
+Suốt 365 ngày
+
+Không một giây nào tôi thấy bình yên.
 
 Những tháng ngày vô nghĩa tưởng như không chấm dứt.
 
@@ -30,11 +34,7 @@ Cuộc gặp gỡ đó...
 
 Đã làm thay đổi hoàn toàn cuộc đời tôi.
 
-ờm... Sau tất cả
-
-thì tôi vẫn căm ghét thị trấn này :penguin:
-
-
+_____________________________________________________________________________
 ### Hãy **ĐỌC KĨ** các nội dung dưới đây.
 
 ## Thông tin chung
