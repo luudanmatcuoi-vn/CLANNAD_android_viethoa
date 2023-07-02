@@ -68,8 +68,11 @@ _____________________________________________________________________________
 - Một số câu thoại sẽ không được việt hoá hoặc viet hoa khong dau ( do dev lười :penguin: )
 - Giao diện game sẽ không được việt hoá mà là tiếng anh.
 - Save game của rlvm không tương thích với bất cứ phiên bản nào khác.
+- Không có chức năng dangopedia các từ dangopedia và giải nghĩa sẽ được cập nhật sau trên trang này.
+
   
  Mình khuyến khích các bạn chơi bản HD đã được việt hoá bởi vnkeyfc :penguin:
+
 
 ## Bug report
 - Hỏi gì sang kênh youtube của mình mà hỏi https://www.youtube.com/channel/UCdyAb9TAX1qQ5R2-c91-x8g ( mặc dù kênh bị tha hoá r )
@@ -84,5 +87,14 @@ _____________________________________________________________________________
 - [Kazamatsuri](https://kazamatsuri.org/) Cộng đồng hâm mộ Key (đã tốt nghiệp) 
 - vnsharing.net tuổi thơ :penguin:
 
-  
+
+## Thừa giấy vẽ voi
+Yeah... cuộc hành trình dài,... dài đằng đẵng,... tưởng chừng vô tận,... cuối cùng... đã đến hồi kết.
+
+Như t đã đề cập trong lời bình của bản việt hoá CLANNAD HD, t bắt đầu từ con số 0, hoàn toàn tự học. 
+Tuổi thơ học tập của t là những ngày tháng bắt trộm wifi hàng xóm, copy từng bài viết sang doc để về đọc dần hoặc thức cả buổi trưa tải 2GB file ghost winxp để học cài lại win hoặc tốn cả buổi lục lọi internet chỉ để kiếm file pdf cho cuốn sách mà mình muốn đọc. Cho nên t vẫn luôn cảm kích tới những bài viết hướng dẫn tâm huyết không dấu diếm kiến thức, không quảng cáo gì.
+Bản port này là lời cảm ơn nhỏ tới những vị anh hùng nặc danh đó và là tia hi vọng cho những bạn trẻ không có máy tính. Mong càng nhiều người hơn biết tới tác phẩm ý nghĩa này.
+
+Sayonara
+
 
