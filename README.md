@@ -1,6 +1,6 @@
 # CLANNAD android Việt Hoá
 
-[ảnh Lăn Nách](clannad.jpg)
+![ảnh Lăn Nách](clannad.jpg)
 
 ## Giới thiệu
  
