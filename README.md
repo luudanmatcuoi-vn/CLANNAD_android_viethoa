@@ -5,21 +5,33 @@
 ## Giới thiệu
  
 Tôi căm ghét thị trấn này.
+
 Nó đầy những kí ức tôi không muốn nhớ tới.
+
 Một cuộc sống vô vị, không mục tiêu, không lý tưởng...
+
 Kể cả thú vui cho bản thân mình cũng không.
+
 Những tháng ngày vô nghĩa tưởng như không chấm dứt.
+
 ( biểu hiện của trầm kảm đấy :penguin: )
+
 
 Nhưng...
 
+
 Trên con đường ấy...
+
 Một cô gái nhút nhát...
+
 Với những lời nói ngây thơ đến kì lạ.
+
 Cuộc gặp gỡ đó...
+
 Đã làm thay đổi hoàn toàn cuộc đời tôi.
 
 ờm... Sau tất cả
+
 thì tôi vẫn căm ghét thị trấn này :penguin:
 
 
