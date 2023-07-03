@@ -49,6 +49,9 @@ _____________________________________________________________________________
 - Github: [link](https://github.com/luudanmatcuoi-vn/CLANNAD_android_viethoa/raw/main/CLANNAD_android_viethoa_patch.rar)
 
 ## Cách cài đặt
+
+Video hướng dẫn : https://youtu.be/kFRp3Is5EFw
+
 - Cài đặt mới game bằng đĩa gốc. Các bạn có thể tìm kiếm tại [đây](https://solidtorrents.to/torrents/key-clannad-full-voice-rar-83345/5bd7e76914ab180a270b7ff9/)
 - Download bộ patch và giải nén (password: `Luudanmatcuoi`) vào thư mục chứa game, mặc định là `C:\KEY\CLANNAD_FV`
 - Cài đặt app giả lập rlvm: [link](https://m.apkpure.com/vn/rlvm/is.xyz.rlvm)
