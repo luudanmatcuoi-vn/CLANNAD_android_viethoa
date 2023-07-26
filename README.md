@@ -36,13 +36,13 @@ Cuộc gặp gỡ đó...
 
 _____________________________________________________________________________
 ### Hãy **ĐỌC KĨ** các nội dung dưới đây.
-
+<!--
 ## Thông tin chung
 - Đây là phiên bản port từ đĩa cài CLANNAD Full Voice, được mod lại để chơi được trên android thông qua giả lập rlvm
 - Bản port được tạo ra với mục đích ban đầu là dành cho bản thân người port, nên các vấn đề về lỗi phát sinh trong và sau khi cài sẽ không được hỗ trợ.
 - Bản dịch được lấy từ [đây](https://www.baka-tsuki.org/project/index.php?title=CLANNAD_%7EVietnamese%7E), của nhóm vnkeyfc.
 - Nghiêm cấm sử dụng bản port dưới bất kì hình thức thương mại nào.
-
+-->
 ## Link tải
 - Github: [link](https://github.com/luudanmatcuoi-vn/CLANNAD_android_viethoa/raw/main/CLANNAD_android_viethoa_patch.rar)
 
@@ -60,12 +60,9 @@ Video hướng dẫn : https://youtu.be/kFRp3Is5EFw
 
 ## Lưu ý
 
-- Thoát game bằng cách bấm "EXIT" hoặc "End the game" để các savegame của bạn lưu lại trong lần chơi tiếp theo
-
-** LÀM ƠN THOÁT GAME BẰNG CÁCH BẤM NÚT EXIT TRONG GAME**
-
- ( kể cả bạn save trong game rồi nhưng tiện tay tắt app rlvm thì quá trình chơi của bạn không được lưu ( Note: Đó là tính năng ) )
-
+- Thoát game bằng cách bấm "EXIT" hoặc "End the game" để các savegame của bạn lưu lại trong lần chơi tiếp theo<br>
+__LÀM ƠN THOÁT GAME BẰNG CÁCH BẤM NÚT EXIT TRONG GAME__
+<br>( kể cả bạn save trong game rồi nhưng tiện tay tắt app rlvm thì quá trình chơi của bạn không được lưu ( Note: Đó là tính năng ) )
 - Đây là phiên bản chơi "được" ko có nghĩa là chơi "tốt" trên android.
   ( đừng bắt 1 con game 20 năm trước với trình giả lập đã ngừng phát triển từ thập kỷ trước phải chạy mượt mà )
 - Một số câu thoại sẽ không được việt hoá hoặc viet hoa khong dau ( do dev lười :penguin: )
