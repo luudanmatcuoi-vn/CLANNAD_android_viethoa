@@ -72,7 +72,8 @@ __LÀM ƠN THOÁT GAME BẰNG CÁCH BẤM NÚT EXIT TRONG GAME__
 
   
  Mình khuyến khích các bạn chơi bản HD đã được việt hoá bởi vnkeyfc :penguin:
-
+ <br>
+( Đằng nào bản patch HD đó cũng patch được cho bản lậu <\("\) patch vào lậu game vẫn nhận nhé, đó là tính năng )
 
 ## Bug report
 - Hỏi gì sang kênh youtube của mình mà hỏi https://www.youtube.com/channel/UCdyAb9TAX1qQ5R2-c91-x8g ( mặc dù kênh bị tha hoá r )
