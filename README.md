@@ -5,35 +5,33 @@
 ## Giới thiệu
  
 Tôi căm ghét thị trấn này.
-
+<br>
 Nó đầy rẫy những kí ức mà tôi muốn quên đi.
-
+<br>
 Một cuộc sống vô vị, không mục tiêu, không lý tưởng...
-
+<br>
 Kể cả thú vui cho bản thân mình cũng không.
-
+<br>
 Suốt 365 ngày
-
+<br>
 Không một giây nào tôi thấy bình yên.
-
+<br>
 Những tháng ngày vô nghĩa tưởng như không chấm dứt.
-
+<br>
 ( biểu hiện của trầm kảm đấy :penguin: )
-
-
+<br>
 Nhưng...
-
-
+<br>
 Trên con đường ấy...
-
+<br>
 Một cô gái nhút nhát...
-
+<br>
 Với những lời nói ngây thơ đến kì lạ.
-
+<br>
 Cuộc gặp gỡ đó...
-
+<br>
 Đã làm thay đổi hoàn toàn cuộc đời tôi.
-
+<br>
 (Ps: Muốn thoát trầm kảm ư, chơi game này học cách tán gái đi :rofl: )
 
 _____________________________________________________________________________
