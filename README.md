@@ -169,7 +169,19 @@ ret
 goto @42
 halt
 ```
+for 'select' section: 
+```
+strS[1903] = 'Use your panties. '
+strS[1904] = 'Use your socks. '
+#res<0144>
+DisableAutoSavepoints
+CallDLL(1, 200, -1, 1181551, 1181552)
+intF[1200] = select(#res<0145>, #res<0146>)
+EnableAutoSavepoints
+```
 Finally, modify font, Just do it <(")
+<br>
+hope this can help you transfer Clannad window ver to android ver.
 <br>
 read rldev docs for further informations
 
