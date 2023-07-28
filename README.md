@@ -45,7 +45,7 @@ _____________________________________________________________________________
 -->
 ## Link tải
 - Patch từ github: [link](https://github.com/luudanmatcuoi-vn/CLANNAD_android_viethoa/raw/main/CLANNAD_android_viethoa_patch.rar)
-- Link full game android việt hoá: [Terabox](https://terabox.com/s/1_R3hm3OFCCePKoFTjTYsRw)   [Drive](https://drive.google.com/file/d/1K5HxFEWcTfgF19mAJ3DUX6jH14apWOOD/view?usp=sharing)
+- Link full game android việt hoá: [Terabox](https://terabox.com/s/1_R3hm3OFCCePKoFTjTYsRw) hoặc  [Drive](https://drive.google.com/file/d/1K5HxFEWcTfgF19mAJ3DUX6jH14apWOOD/view?usp=sharing)
 
 ## Cách cài đặt
 
@@ -57,7 +57,7 @@ Video hướng dẫn : https://youtu.be/kFRp3Is5EFw
     - Download bộ patch và giải nén (password: `Luudanmatcuoi`) vào thư mục chứa game, mặc định là `C:\KEY\CLANNAD_FV`
     - Sao chép toàn bộ thư mục chứa game vào điện thoại android
   - Cách 2:
-    - Down full game từ link [Terabox](https://terabox.com/s/1_R3hm3OFCCePKoFTjTYsRw)   [Drive](https://drive.google.com/file/d/1K5HxFEWcTfgF19mAJ3DUX6jH14apWOOD/view?usp=sharing)
+    - Down full game từ link [Terabox](https://terabox.com/s/1_R3hm3OFCCePKoFTjTYsRw)  hoặc [Drive](https://drive.google.com/file/d/1K5HxFEWcTfgF19mAJ3DUX6jH14apWOOD/view?usp=sharing)
     - Giải nén :penguin:
 - Bước 2: cài đặt giả lập
   - Cài đặt app giả lập rlvm: [link](https://m.apkpure.com/vn/rlvm/is.xyz.rlvm)
