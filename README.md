@@ -44,19 +44,26 @@ _____________________________________________________________________________
 - Nghiêm cấm sử dụng bản port dưới bất kì hình thức thương mại nào.
 -->
 ## Link tải
-- Github: [link](https://github.com/luudanmatcuoi-vn/CLANNAD_android_viethoa/raw/main/CLANNAD_android_viethoa_patch.rar)
+- Patch từ github: [link](https://github.com/luudanmatcuoi-vn/CLANNAD_android_viethoa/raw/main/CLANNAD_android_viethoa_patch.rar)
+- Link full game android việt hoá: [Terabox](https://terabox.com/s/1_R3hm3OFCCePKoFTjTYsRw)   [Drive](https://drive.google.com/file/d/1K5HxFEWcTfgF19mAJ3DUX6jH14apWOOD/view?usp=sharing)
 
 ## Cách cài đặt
 
 Video hướng dẫn : https://youtu.be/kFRp3Is5EFw
 
-- Cài đặt mới game bằng đĩa gốc. Các bạn có thể tìm kiếm tại [đây](https://solidtorrents.to/torrents/key-clannad-full-voice-rar-83345/5bd7e76914ab180a270b7ff9/)
-- Download bộ patch và giải nén (password: `Luudanmatcuoi`) vào thư mục chứa game, mặc định là `C:\KEY\CLANNAD_FV`
-- Cài đặt app giả lập rlvm: [link](https://m.apkpure.com/vn/rlvm/is.xyz.rlvm)
-- Mở app rlvm rồi tắt
-- Sao chép toàn bộ thư mục chứa game vào điện thoại android
-- Sao chép và ghi đè file `DroidSansFallbackFull.ttf` vào thư mục `Android/data/is.xyz.rlvm/files` trong điện thoại.
-- Mở app rlvm, đến thư mục game và chiến thôi.
+- Bước 1: Chuẩn bị thư mục game (có 2 cách)
+  - Cách 1 (cần có PC): 
+    - Cài đặt mới game bằng đĩa gốc. Các bạn có thể tìm kiếm tại [đây](https://solidtorrents.to/torrents/key-clannad-full-voice-rar-83345/5bd7e76914ab180a270b7ff9/)
+    - Download bộ patch và giải nén (password: `Luudanmatcuoi`) vào thư mục chứa game, mặc định là `C:\KEY\CLANNAD_FV`
+    - Sao chép toàn bộ thư mục chứa game vào điện thoại android
+  - Cách 2:
+    - Down full game từ link [Terabox](https://terabox.com/s/1_R3hm3OFCCePKoFTjTYsRw)   [Drive](https://drive.google.com/file/d/1K5HxFEWcTfgF19mAJ3DUX6jH14apWOOD/view?usp=sharing)
+    - Giải nén :penguin:
+- Bước 2: cài đặt giả lập
+  - Cài đặt app giả lập rlvm: [link](https://m.apkpure.com/vn/rlvm/is.xyz.rlvm)
+  - Mở app rlvm rồi tắt
+  - Sao chép và ghi đè file `DroidSansFallbackFull.ttf` vào thư mục `Android/data/is.xyz.rlvm/files` trong điện thoại.
+  - Mở app rlvm, đến thư mục game và chiến thôi.
 
 ## Lưu ý
 
@@ -79,6 +86,26 @@ __LÀM ƠN THOÁT GAME BẰNG CÁCH BẤM NÚT EXIT TRONG GAME__
 - Hỏi gì sang kênh youtube của mình mà hỏi https://www.youtube.com/channel/UCdyAb9TAX1qQ5R2-c91-x8g ( mặc dù kênh bị tha hoá r )
 - Báo lỗi thì viết tâm thư qua tab Issues ý... chắc là t sẽ fix.
 
+## For developers
+I use rldev to change vietnamese characters to ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟ...(characters that reallive accept), rlBabel.dll to remove space between characters and modify default font to change weird characters to actually vietnamese characters.
+<br>
+Firstly, rldev, you can find out in kazamatsuri, someone already build kprl.exe and rlc.exe so you can run it in cygwin.
+<br>
+Secondly, rlBabel, I transfer method from Tomoyo After Doki fan trans... yep, extract TA game and find out how they done it.
+<br>
+add `#DLL.000 = "rlBabel"` to GAMEEXE.INI
+```
+#res<0001>
+strS[1900] = '<your text here>'
+gosub @39
+pause
+```
+remove `eot` line and add some code in the bottom of a org file ( where `gosub @39` call to )
+<br>
+Finally, modify font, Just do it <(")
+<br>
+read rldev docs for further informations
+
 ## Acknowledgments
 Để có được bản port này, xin được gửi lời cảm ơn đến:
 - [Haeleth](http://www.haeleth.net/) Một thiên tài, người khởi đầu cho tất cả
@@ -87,7 +114,6 @@ __LÀM ƠN THOÁT GAME BẰNG CÁCH BẤM NÚT EXIT TRONG GAME__
 - [Baka-Tsuki](https://www.baka-tsuki.org/) Nơi lưu trữ bản dịch game
 - [Kazamatsuri](https://kazamatsuri.org/) Cộng đồng hâm mộ Key (đã tốt nghiệp) 
 - vnsharing.net tuổi thơ :penguin:
-
 
 ## Thừa giấy vẽ voi
 Yeah... cuộc hành trình dài,... dài đằng đẵng,... tưởng chừng vô tận,... cuối cùng... đã đến hồi kết.
