@@ -75,7 +75,7 @@ __LÀM ƠN THOÁT GAME BẰNG CÁCH BẤM NÚT EXIT TRONG GAME__
 - Một số câu thoại sẽ không được việt hoá hoặc viet hoa khong dau ( do dev lười :penguin: )
 - Giao diện game sẽ không được việt hoá mà là tiếng anh.
 - Save game của rlvm không tương thích với bất cứ phiên bản nào khác.
-- Không có chức năng dangopedia các từ dangopedia và giải nghĩa sẽ được cập nhật sau trên trang này.
+- Không có chức năng dangopedia các từ dangopedia và giải nghĩa các bạn có thể tìm kiếm ở [>> đây <<](dangopedia.md)
 
   
  Mình khuyến khích các bạn chơi bản HD đã được việt hoá bởi vnkeyfc :penguin:
