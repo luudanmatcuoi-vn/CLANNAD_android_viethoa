@@ -89,7 +89,7 @@ __LÀM ƠN THOÁT GAME BẰNG CÁCH BẤM NÚT EXIT TRONG GAME__
 ## For developers
 I use rldev to change vietnamese characters to ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟ...(characters that reallive accept), rlBabel.dll to remove space between characters and modify default font to change weird characters to actually vietnamese characters.
 <br>
-That means reallive engine that support Shift-JIS encoding thought displaying weird characters and program using modified font which change those characters to characters we want.
+In other words, reallive engine that support Shift-JIS encoding thought displaying weird characters and program using modified font which change those characters to characters we want.
 <br>
 Firstly, rldev, you can find out in kazamatsuri, someone already build kprl.exe and rlc.exe so you can run it in cygwin.
 <br>
