@@ -98,12 +98,77 @@ Secondly, rlBabel, I transfer method from Tomoyo After Doki fan trans... yep, ex
 add `#DLL.000 = "rlBabel"` to GAMEEXE.INI
 ```
 #res<0001>
-strS[1900] = '<your text here>'
+strS[1900] = 'I may be independent at work now, but it\'s not like my duties have changed.'
 gosub @39
 pause
 ```
-remove `eot` line and add some code in the bottom of a org file ( where `gosub @39` call to )
-<br>
+remove `eot` line and add some code in the bottom of a org file (this is sample, you have to change entrypoint number so it won't conflict)
+```
+CallDLL(1, 10, intC[1] | 1179648)
+goto @40
+
+  @39
+CallDLL(1, 10, 1181548)
+
+  @40
+DisableAutoSavepoints
+store = 8
+strS[1900] = '        '
+
+  @41
+goto_unless(store < 512) @42
+strS[1900] += strS[1900]
+store *= 2
+goto @41
+
+  @42
+CallDLL(1, 12, 1181548, 131073)
+goto_on(store){  @49, @50, @48, @43, @44, @45, @46, @47 }
+goto @50
+
+  @43
+br
+goto @42
+
+  @44
+page
+TextPos(0, 0)
+CallDLL(1, 13, 1181548)
+goto @42
+
+  @45
+SetIndent
+goto @42
+
+  @46
+ClearIndent
+goto @42
+
+  @47
+FontColour(6)
+CallDLL(1, 21)
+intC[0] += 1
+
+  @48
+#res<0521>
+goto @42
+
+  @49
+strS[1901] = strS[1900]
+strS[1900] = 'Error: '
+strS[1900] += strS[1901]
+strS[1900] += '. Unable to format text.'
+strclear(strS[1901])
+FastText
+#res<0522>
+NormalText
+
+  @50
+EnableAutoSavepoints
+ret
+goto @42
+halt
+```
 Finally, modify font, Just do it <(")
 <br>
 read rldev docs for further informations
